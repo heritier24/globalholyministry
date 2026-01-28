@@ -102,7 +102,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-cat text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-null-1"></span>
+                            <i class="fas fa-church"></i>
                         </div>
                         <div class="cat-cap">
                             <h5><router-link to="/events">Weekly Services</router-link></h5>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-cat active text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-think"></span>
+                            <i class="fas fa-hands-helping"></i>
                         </div>
                         <div class="cat-cap">
                             <h5><router-link to="/events">Community Outreach</router-link></h5>
@@ -124,7 +124,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-cat text-center mb-50">
                         <div class="cat-icon">
-                            <span class="flaticon-gear"></span>
+                            <i class="fas fa-bible"></i>
                         </div>
                         <div class="cat-cap">
                             <h5><router-link to="/events">Bible Study</router-link></h5>
