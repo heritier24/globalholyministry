@@ -106,11 +106,62 @@
                         </div>
                         <div class="cat-cap-horizontal">
                             <h5><router-link to="/events">Community Outreach</router-link></h5>
-                            <p>Serving our community through various outreach programs and showing God's love.</p>
+                            <p>Serving our community through various outreach programs and showing God's love through practical service.</p>
                             <div class="event-details-horizontal">
                                 <span><i class="far fa-calendar"></i> Last Saturday</span>
                                 <span><i class="far fa-clock"></i> 9:00 AM - 1:00 PM</span>
                                 <span><i class="fas fa-map-marker-alt"></i> Community Center</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Event 6 -->
+                <div class="col-lg-12 col-md-12 mb-30">
+                    <div class="single-cat-horizontal d-flex align-items-center mb-50">
+                        <div class="cat-icon-horizontal">
+                            <img src="/assets/img/gallery/bible1.jpeg" alt="Skills Development Workshop" class="cat-icon-img">
+                        </div>
+                        <div class="cat-cap-horizontal">
+                            <h5><router-link to="/events">Skills Development Workshop</router-link></h5>
+                            <p>Empowering individuals with practical skills to enhance self-sufficiency and contribute to their communities.</p>
+                            <div class="event-details-horizontal">
+                                <span><i class="far fa-calendar"></i> Every Thursday</span>
+                                <span><i class="far fa-clock"></i> 5:00 PM - 7:00 PM</span>
+                                <span><i class="fas fa-map-marker-alt"></i> Training Center</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Event 7 -->
+                <div class="col-lg-12 col-md-12 mb-30">
+                    <div class="single-cat-horizontal d-flex align-items-center mb-50">
+                        <div class="cat-icon-horizontal">
+                            <img src="/assets/img/gallery/bible3.jpeg" alt="Medical Mission" class="cat-icon-img">
+                        </div>
+                        <div class="cat-cap-horizontal">
+                            <h5><router-link to="/events">Medical Mission & Health Awareness</router-link></h5>
+                            <p>Providing compassionate healthcare services and health awareness programs for physical and emotional well-being.</p>
+                            <div class="event-details-horizontal">
+                                <span><i class="far fa-calendar"></i> First Saturday Monthly</span>
+                                <span><i class="far fa-clock"></i> 8:00 AM - 2:00 PM</span>
+                                <span><i class="fas fa-map-marker-alt"></i> Church Clinic</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Event 8 -->
+                <div class="col-lg-12 col-md-12 mb-30">
+                    <div class="single-cat-horizontal d-flex align-items-center mb-50">
+                        <div class="cat-icon-horizontal">
+                            <img src="/assets/img/gallery/bible4.jpeg" alt="Leadership Training" class="cat-icon-img">
+                        </div>
+                        <div class="cat-cap-horizontal">
+                            <h5><router-link to="/events">Discipleship & Leadership Training</router-link></h5>
+                            <p>Equipping believers with biblical truth and practical wisdom for spiritual growth and effective ministry.</p>
+                            <div class="event-details-horizontal">
+                                <span><i class="far fa-calendar"></i> Every Saturday</span>
+                                <span><i class="far fa-clock"></i> 3:00 PM - 5:00 PM</span>
+                                <span><i class="fas fa-map-marker-alt"></i> Fellowship Hall</span>
                             </div>
                         </div>
                     </div>
