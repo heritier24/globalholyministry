@@ -22,10 +22,10 @@
                                 <h4>Contact Info</h4>
                                 <ul>
                                     <li>
-                                        <p>Address: Kigali Rwanda, KK 53 Street</p>
+                                        <p>Address: 3100 Gilmore Trace, Lexington, KY 40511</p>
                                     </li>
-                                    <li><a href="tel:+250786084727">Phone: +250786 0847 27</a></li>
-                                    <li><a href="mailto:info@globalholyministries.com">Email: info@globalholyministries.com</a></li>
+                                    <li><a href="tel:+18594569774">Phone: +18594569774</a></li>
+                                    <li><a href="mailto:globalholyministries@gmail.com">Email: globalholyministries@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
