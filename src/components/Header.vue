@@ -9,8 +9,8 @@
                         <div class="row d-flex justify-content-between align-items-center">
                             <div class="header-info-left d-flex">
                                 <ul>
-                                    <li>Phone: +250786 0847 27</li>
-                                    <li>Email: info@globalholyministries.com</li>
+                                    <li>Phone: +18594569774</li>
+                                    <li>Email: globalholyministries@gmail.com</li>
                                 </ul>
                                 <div class="header-social">
                                     <ul>
