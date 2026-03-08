@@ -39,7 +39,7 @@
                         </div>
                         <div class="contact-cap">
                             <h5>Church Location</h5>
-                            <p>Kigali Rwanda<br>KK 53 Street</p>
+                            <p>3100 Gilmore Trace, Lexington, KY 40511</p>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         </div>
                         <div class="contact-cap">
                             <h5>Phone Number</h5>
-                            <p><a href="tel:+250786084727">+250786 0847 27</a></p>
+                            <p><a href="tel:+18594569774">+18594569774</a></p>
                             <p>Mon to Fri 9am to 6pm</p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                         </div>
                         <div class="contact-cap">
                             <h5>Email Address</h5>
-                            <p><a href="mailto:info@globalholyministries.com">info@globalholyministries.com</a></p>
+                            <p><a href="mailto:globalholyministries@gmail.com">globalholyministries@gmail.com</a></p>
                             <p>Send us your query anytime!</p>
                         </div>
                     </div>
