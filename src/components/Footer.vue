@@ -10,7 +10,7 @@
                             <div class="single-footer-caption mb-30">
                                 <div class="footer-tittle">
                                     <div class="footer-logo mb-20">
-                                        <router-link to="/"><img src="/assets/img/logo/logo.png" alt="Global Holy Ministries"></router-link>
+                                        <router-link to="/"><img src="/assets/img/logo/logonew.png" alt="Global Holy Ministries"></router-link>
                                     </div>
                                 </div>
                             </div>

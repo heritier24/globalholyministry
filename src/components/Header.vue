@@ -48,7 +48,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo">
-                                <router-link to="/"><img src="/assets/img/logo/logo.png" alt="Global Holy Ministries"></router-link>
+                                <router-link to="/"><img src="/assets/img/logo/logonew.png" alt="Global Holy Ministries"></router-link>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10">
