@@ -1,7 +1,7 @@
 <template>
   <main>
     <!-- slider Area Start-->
-    <div class="slider-area" :style="{ backgroundImage: 'url(/assets/img/logo/logo.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundColor: '#f8f9fa' }">
+    <div class="slider-area" :style="{ backgroundImage: 'url(/assets/img/logo/logonew.png)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundColor: '#f8f9fa' }">
         <div class="slider-active">
             <!-- Single Slider -->
             <div class="single-slider slider-height d-flex align-items-center">
@@ -10,13 +10,13 @@
                         <div class="col-xl-6 col-lg-6 col-md-8 col-sm-10">
                             <div class="hero__caption">
                                 <h1 data-animation="fadeInUp" data-delay=".6s">Global Holy Ministries</h1>
-                                <p data-animation="fadeInUp" data-delay=".8s">Welcome to our spiritual community. Join us in worship, fellowship, and service to spread God's love and grace to all people.</p>
+                                <p data-animation="fadeInUp" data-delay=".8s">Spreading the Word of God through local community church services, mass gatherings, and digital platforms, reaching individuals across all nations with the transformative message of Jesus Christ.</p>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn">
                                     <router-link to="/about" class="btn hero-btn mb-10" data-animation="fadeInLeft" data-delay=".8s">About Us</router-link>
                                     <router-link to="/contact" class="cal-btn ml-15" data-animation="fadeInRight" data-delay="1.0s">
                                         <i class="flaticon-null"></i>
-                                        <p>+250786 0847 27</p>
+                                        <p>+18594569774</p>
                                     </router-link>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@
                                             </div>
                                         </div>
                                         <div class="slide">
-                                            <img src="/assets/img/logo/logo.png" alt="Word of God" class="slide-image">
+                                            <img src="/assets/img/logo/logonew.png" alt="Word of God" class="slide-image">
                                             <div class="slide-content">
                                                 <h4>The Living Word</h4>
                                                 <p>God's truth for today</p>
