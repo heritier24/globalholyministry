@@ -193,16 +193,10 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Pastor John Smith</span>
-                                <h4><a href="#">Finding Peace in Troubled Times</a></h4>
-                                <div class="sermon-meta">
-                                    <span><i class="far fa-calendar"></i> December 10, 2024</span>
-                                    <span><i class="far fa-clock"></i> 35 min</span>
-                                </div>
+                                <span class="preacher-name">Ildephonse phaida</span>
                             </div>
                         </div>
                         <div class="sermon-content">
-                            <p>Discover how God's peace can sustain you through life's greatest challenges and uncertainties.</p>
                             <!-- Tabs Navigation -->
                             <div class="sermon-tabs">
                                 <button class="tab-btn" :class="{ active: activeTab1 === 'video' }" @click="activeTab1 = 'video'">
@@ -264,16 +258,10 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Pastor Mary Johnson</span>
-                                <h4><a href="#">The Power of Faith and Prayer</a></h4>
-                                <div class="sermon-meta">
-                                    <span><i class="far fa-calendar"></i> December 3, 2024</span>
-                                    <span><i class="far fa-clock"></i> 42 min</span>
-                                </div>
+                                <span class="preacher-name">Brother Ildephonse phaida</span>
                             </div>
                         </div>
                         <div class="sermon-content">
-                            <p>Explore the transformative power of unwavering faith and consistent prayer in your spiritual journey.</p>
                             <!-- Tabs Navigation -->
                             <div class="sermon-tabs">
                                 <button class="tab-btn" :class="{ active: activeTab2 === 'video' }" @click="activeTab2 = 'video'">
@@ -336,15 +324,9 @@
                             </div>
                             <div class="sermon-info">
                                 <span class="preacher-name">Guest Speaker: Rev. David Brown</span>
-                                <h4><a href="#">Walking in God's Purpose</a></h4>
-                                <div class="sermon-meta">
-                                    <span><i class="far fa-calendar"></i> November 26, 2024</span>
-                                    <span><i class="far fa-clock"></i> 38 min</span>
-                                </div>
                             </div>
                         </div>
                         <div class="sermon-content">
-                            <p>Learn how to discover and fulfill the divine purpose God has designed for your life.</p>
                             <!-- Tabs Navigation -->
                             <div class="sermon-tabs">
                                 <button class="tab-btn" :class="{ active: activeTab3 === 'video' }" @click="activeTab3 = 'video'">
@@ -406,16 +388,10 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Pastor John Smith</span>
-                                <h4><a href="#">Building Strong Families</a></h4>
-                                <div class="sermon-meta">
-                                    <span><i class="far fa-calendar"></i> November 19, 2024</span>
-                                    <span><i class="far fa-clock"></i> 45 min</span>
-                                </div>
+                                <span class="preacher-name">Ildephonse phaida</span>
                             </div>
                         </div>
                         <div class="sermon-content">
-                            <p>Biblical principles for creating and maintaining strong, Christ-centered families in today's world.</p>
                             <!-- Tabs Navigation -->
                             <div class="sermon-tabs">
                                 <button class="tab-btn" :class="{ active: activeTab4 === 'video' }" @click="activeTab4 = 'video'">

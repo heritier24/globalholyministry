@@ -199,7 +199,7 @@
                         <div class="map-placeholder">
                             <i class="fas fa-map-marked-alt"></i>
                             <h4>Find Us Here</h4>
-                            <p>Kigali Rwanda, KK 53 Street</p>
+                            <p>3100 Gilmore Trace, Lexington, KY 40511</p>
                             <a href="https://maps.google.com" target="_blank" class="btn secondary-btn">
                                 <i class="fas fa-directions"></i> Get Directions
                             </a>
