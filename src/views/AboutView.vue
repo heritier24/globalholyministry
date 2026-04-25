@@ -278,7 +278,7 @@
                             </div>
                         </div>
                         <div class="team-caption">
-                            <h4>Senior Pastor</h4>
+                            <h4>Brother ILDEPHONSE FAYIDA</h4>
                             <span>Lead Shepherd</span>
                             <p>Leading our congregation with wisdom, spiritual guidance, and passion for God's work.</p>
                         </div>
@@ -296,7 +296,7 @@
                             </div>
                         </div>
                         <div class="team-caption">
-                            <h4>Associate Pastor</h4>
+                            <h4>Brother HAKIZIMANA vincent</h4>
                             <span>Ministry Support</span>
                             <p>Supporting our community through dedicated service and spiritual mentorship.</p>
                         </div>

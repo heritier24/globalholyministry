@@ -193,7 +193,7 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Ildephonse phaida</span>
+                                <span class="preacher-name">ILDEPHONSE FAYIDA</span>
                             </div>
                         </div>
                         <div class="sermon-content">
@@ -258,7 +258,7 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Brother Ildephonse phaida</span>
+                                <span class="preacher-name">Brother ILDEPHONSE FAYIDA</span>
                             </div>
                         </div>
                         <div class="sermon-content">
@@ -388,7 +388,7 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Ildephonse phaida</span>
+                                <span class="preacher-name">ILDEPHONSE FAYIDA</span>
                             </div>
                         </div>
                         <div class="sermon-content">
