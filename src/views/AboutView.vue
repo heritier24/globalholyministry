@@ -296,7 +296,7 @@
                             </div>
                         </div>
                         <div class="team-caption">
-                            <h4>Brother HAKIZIMANA vincent</h4>
+                            <h4>HAKIZIMANA vincent</h4>
                             <span>Ministry Support</span>
                             <p>Supporting our community through dedicated service and spiritual mentorship.</p>
                         </div>
