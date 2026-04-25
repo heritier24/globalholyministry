@@ -150,6 +150,71 @@
                 </div>
             </div>
             <div class="row">
+                <!-- Sermon 7 (Newest) -->
+                <div class="col-lg-6 col-md-12 mb-30">
+                    <div class="sermon-card">
+                        <div class="sermon-header">
+                            <div class="sermon-img">
+                                <div class="video-container" v-show="activeTab7 === 'video'">
+                                    <iframe
+                                        src="https://www.youtube.com/embed/KMFNVU8df6E"
+                                        title="Refuge TV - Ubuhungiro"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="audio-container" v-show="activeTab7 === 'audio'">
+                                    <div class="audio-player-placeholder">
+                                        <i class="fas fa-headphones"></i>
+                                        <p>Audio Player</p>
+                                        <audio controls preload="none">
+                                            <source src="/assets/audio/sermon7.mp3" type="audio/mpeg">
+                                            Your browser does not support the audio element.
+                                        </audio>
+                                    </div>
+                                </div>
+                                <div class="notes-container" v-show="activeTab7 === 'notes'">
+                                    <div class="notes-placeholder">
+                                        <i class="fas fa-file-alt"></i>
+                                        <p>Sermon Notes</p>
+                                        <div class="notes-content">
+                                            <h5>Key Points:</h5>
+                                            <ul>
+                                                <li>Spiritual transformation through faith</li>
+                                                <li>Overcoming life's obstacles</li>
+                                                <li>God's strength in weakness</li>
+                                                <li>Walking in victory</li>
+                                            </ul>
+                                            <h5>Bible Verses:</h5>
+                                            <p>2 Corinthians 12:9, Romans 8:37</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sermon-info">
+                                <span class="preacher-name">ILDEPHONSE FAYIDA</span>
+                            </div>
+                        </div>
+                        <div class="sermon-content">
+                            <!-- Tabs Navigation -->
+                            <div class="sermon-tabs">
+                                <button class="tab-btn" :class="{ active: activeTab7 === 'video' }" @click="activeTab7 = 'video'">
+                                    <i class="fas fa-play"></i> Video
+                                </button>
+                                <button class="tab-btn" :class="{ active: activeTab7 === 'audio' }" @click="activeTab7 = 'audio'">
+                                    <i class="fas fa-headphones"></i> Audio
+                                </button>
+                                <button class="tab-btn" :class="{ active: activeTab7 === 'notes' }" @click="activeTab7 = 'notes'">
+                                    <i class="fas fa-file-alt"></i> Notes
+                                </button>
+                            </div>
+                            <div class="sermon-actions">
+                                <!-- Action buttons removed for now -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- Sermon 5 (Newest) -->
                 <div class="col-lg-6 col-md-12 mb-30">
                     <div class="sermon-card">
@@ -453,7 +518,7 @@
                                 </div>
                             </div>
                             <div class="sermon-info">
-                                <span class="preacher-name">Guest Speaker: Rev. David Brown</span>
+                                <span class="preacher-name">ILDEPHONSE FAYIDA</span>
                             </div>
                         </div>
                         <div class="sermon-content">
@@ -632,14 +697,15 @@ export default {
   data () {
     return {
       currentSlide: 0,
-      totalSlides: 6,
+      totalSlides: 7,
       // Tab states for each sermon
       activeTab1: 'video',
       activeTab2: 'video',
       activeTab3: 'video',
       activeTab4: 'video',
       activeTab5: 'video',
-      activeTab6: 'video'
+      activeTab6: 'video',
+      activeTab7: 'video'
     }
   },
   methods: {
